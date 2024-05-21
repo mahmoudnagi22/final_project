@@ -27,7 +27,7 @@ def Padding(image): # padding to constant sizes (292,548)
     return image
 
 ### The path to the selected images
-path = "/content/money_egy_svu/imagess"
+path = "D:\CS\semster 8\Computer vision\project CV\image"
 ### Pre-definitions 
 valid_x = [".jpg",".jpeg",".png",".tga",".bmp"] # valid image extensions
 num_x = len(os.listdir(path))
