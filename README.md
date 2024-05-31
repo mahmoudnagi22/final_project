@@ -3,7 +3,6 @@ Computer vision project SVU
 This work was done by students :
 
 1 - mahmoud mohamed nagi 
-2 - 
 
 This project focuses on developing a computer vision system capable of identifying and classifying different types of Egyptian coins. The primary objective is to create a model that can accurately recognize the coin's category based on its image.
 
